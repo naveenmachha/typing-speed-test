@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-typing-speed {
+    background-image: linear-gradient(to right, #f3eaff, #dac0ff);
+
+    background-size: cover;
+}
+
+.typing-test-heading {
+    font-size: 48px;
+    font-weight: bold;
+    font-family: "Roboto";
+    color: #690cb0;
+}
+
+.on-your-para {
+    font-size: 14px;
+    font-family: "Roboto";
+    color: #3e4c59;
+}
+
+.clock-img {
+    height: 50px;
+    width: 50px;
+}
+
+.timer-font {
+    font-size: 40px;
+    font-family: "Roboto";
+    color: #3e4c59;
+}
+
+.text-container {
+    background-color: #f2ebfe;
+    border-radius: 10px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #9aa5b1;
+}
+
+.text-in-test {
+    font-family: "Roboto";
+    font-size: 20px;
+    color: #323f4b;
+}
+
+.test-area-box {
+    border-radius: 5px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #9aa5b1;
+}
+
+.result-text {
+    font-family: "Roboto";
+    font-size: 20px;
+    color: #3e4c59;
+}
+
+.submit-button {
+    border-radius: 8px;
+    background-color: #690cb0;
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 14px;
+    border-width: 0px;
+    height: 32px;
+    width: 80px;
+}
+
+.reset-button {
+    border-radius: 8px;
+    background-color: #ffffff;
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 14px;
+    border-width: 0px;
+    height: 32px;
+    width: 80px;
+    font-weight: bold;
+}
